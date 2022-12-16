@@ -1,0 +1,156 @@
+name: Центральный парк
+cost: 60
+house_cost: 50
+hotel_cost: 50
+rent: 2, 4, 10, 30, 90, 160, 250
+
+name: Пиццерия "Happy Dog"
+cost: 60
+house_cost: 50
+hotel_cost: 50
+rent: 4, 8, 20, 60, 180, 320, 450
+
+name: Праздничная улица
+cost: 100
+house_cost: 50
+hotel_cost: 50
+rent: 6, 12, 30, 90, 270, 400, 550
+
+name: Боулинг КотоКлуб
+cost: 100
+house_cost: 50
+hotel_cost: 50
+rent: 6, 12, 30, 90, 270, 400, 550
+
+name: Детский сад "Котятки"
+cost: 120
+house_cost: 50
+hotel_cost: 50
+rent: 8, 16, 40, 100, 300, 450, 600
+
+name: "Хрю-Хрю" Ночной клуб
+cost: 140
+house_cost: 100
+hotel_cost: 100
+rent: 10, 20, 50, 150, 450, 625, 750
+
+name: Деловой СвинЦентр
+cost: 140
+house_cost: 100
+hotel_cost: 100
+rent: 10, 20, 50, 150, 450, 625, 750
+
+name: Улица Удивления
+cost: 160
+house_cost: 100
+hotel_cost: 100
+rent: 12, 24, 60, 180, 500, 700, 900
+
+name: Аллея Нового года
+cost: 180
+house_cost: 100
+hotel_cost: 100
+rent: 14, 28, 70, 200, 550, 750, 950
+
+name: Пин Туризм
+cost: 180
+house_cost: 100
+hotel_cost: 100
+rent: 14, 28, 70, 200, 550, 750, 950
+
+name: Переулок Счастья
+cost: 200
+house_cost: 100
+hotel_cost: 100
+rent: 16, 32, 80, 220, 600, 800, 1000
+
+name: Улица Сновидений
+cost: 220
+house_cost: 150
+hotel_cost: 150
+rent: 18, 36, 90, 250, 700, 875, 1050
+
+name: Кудрявый Бульвар
+cost: 220
+house_cost: 150
+hotel_cost: 150
+rent: 18, 36, 90, 250, 700, 875, 1050
+
+name: Барашкино Казино
+cost: 240
+house_cost: 150
+hotel_cost: 150
+rent: 20, 40, 100, 300, 750, 925, 1100
+
+name: Кафе "За обе щеки"
+cost: 260
+house_cost: 150
+hotel_cost: 150
+rent: 22, 44, 110, 330, 800, 975, 1150
+
+name: Проезд Хомякова
+cost: 260
+house_cost: 150
+hotel_cost: 150
+rent: 22, 44, 110, 330, 800, 975, 1150
+
+name: Игровой клуб "Хомикадзе"
+cost: 280
+house_cost: 150
+hotel_cost: 150
+rent: 24, 48, 120, 360, 850, 1025, 1200
+
+name: Квак Дональдс
+cost: 300
+house_cost: 200
+hotel_cost: 200
+rent: 26, 52, 130, 390, 900, 1100, 1275
+
+name: Зелёный магазин
+cost: 300
+house_cost: 200
+hotel_cost: 200
+rent: 26, 52, 130, 390, 900, 1100, 1275
+
+name: Лягушачье королевство
+cost: 320
+house_cost: 200
+hotel_cost: 200
+rent: 28, 56, 150, 450, 1000, 1200, 1400
+
+name: Нерповый переулок
+cost: 350
+house_cost: 200
+hotel_cost: 200
+rent: 35, 70, 175, 500, 1100, 1300, 1500
+
+name: Акулий бульвар
+cost: 400
+house_cost: 200
+hotel_cost: 200
+rent: 50, 100, 200, 600, 1400, 1700, 2000
+
+extra: Салон 1
+e_cost: 200
+e_rent: 25, 50, 100, 200
+
+extra: Салон 2
+e_cost: 200
+e_rent: 25, 50, 100, 200
+
+extra: Салон 3
+e_cost: 200
+e_rent: 25, 50, 100, 200
+
+extra: Салон 4
+e_cost: 200
+e_rent: 25, 50, 100, 200
+
+special: Ресторан "Сладкая Косточка"
+s_cost: 150
+s_rent: 4, 10
+
+special: Ресторан "Веселый лосось"
+s_cost: 150
+s_rent: 4, 10
+
